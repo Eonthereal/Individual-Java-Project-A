@@ -13,10 +13,7 @@ import IndivPro_Zografos_Part_a.OptionsMenu;
  *
  * @author eon_A
  */
-public class MainClass {
-
-    
-    
+public class MainClass {  
 
     
     public static void main(String[] args) {
