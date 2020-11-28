@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package IndivPro_Zografos_Part_a;
+package CoreMethods;
 
-import static IndivPro_Zografos_Part_a.SupportMethods.printListOfAssignments;
-import static IndivPro_Zografos_Part_a.SupportMethods.printListOfAssignmentsPerCourse;
-import static IndivPro_Zografos_Part_a.SupportMethods.printListOfAssignmentsPerStudentPerCourse;
-import static IndivPro_Zografos_Part_a.SupportMethods.printListOfCourses;
+import static CoreMethods.SupportMethods.printListOfAssignments;
+import static CoreMethods.SupportMethods.printListOfAssignmentsPerCourse;
+import static CoreMethods.SupportMethods.printListOfAssignmentsPerStudentPerCourse;
+import static CoreMethods.SupportMethods.printListOfCourses;
 import AssistingClasses.SchoolCourse;
 import CoreClasses.Assignment;
 import CoreClasses.Course;
@@ -16,12 +16,12 @@ import CoreClasses.Student;
 import CoreClasses.Trainer;
 import java.util.ArrayList;
 import java.util.Scanner;
-import static IndivPro_Zografos_Part_a.SupportMethods.printListOfStudent;
-import static IndivPro_Zografos_Part_a.SupportMethods.printListOfStudentsPerCourse;
-import static IndivPro_Zografos_Part_a.SupportMethods.printListOfTrainers;
-import static IndivPro_Zografos_Part_a.SupportMethods.printListOfTrainersPerCourse;
-import static IndivPro_Zografos_Part_a.ManualDataMethods.manualGrader;
-import static IndivPro_Zografos_Part_a.SupportMethods.printlistOfStudentMoreThanOneCourses;
+import static CoreMethods.SupportMethods.printListOfStudent;
+import static CoreMethods.SupportMethods.printListOfStudentsPerCourse;
+import static CoreMethods.SupportMethods.printListOfTrainers;
+import static CoreMethods.SupportMethods.printListOfTrainersPerCourse;
+import static CoreMethods.ManualDataMethods.manualGrader;
+import static CoreMethods.SupportMethods.printlistOfStudentMoreThanOneCourses;
 
 /**
  *

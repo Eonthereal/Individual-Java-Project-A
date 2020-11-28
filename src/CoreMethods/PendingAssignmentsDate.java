@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package IndivPro_Zografos_Part_a;
+package CoreMethods;
 
-import static IndivPro_Zografos_Part_a.ManualDataMethods.date;
-import static IndivPro_Zografos_Part_a.OptionsMenu.listOfStudents;
-import static IndivPro_Zografos_Part_a.SupportMethods.valDate;
+import static CoreMethods.ManualDataMethods.date;
+import static CoreMethods.OptionsMenu.listOfStudents;
+import static CoreMethods.SupportMethods.valDate;
 import CoreClasses.Student;
 import AssistingClasses.StudentAssignment;
 import java.time.LocalDate;

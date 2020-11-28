@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package IndivPro_Zografos_Part_a;
+package CoreMethods;
 
 import AssistingClasses.SchoolCourse;
 import CoreClasses.Assignment;
@@ -11,12 +11,12 @@ import CoreClasses.Course;
 import CoreClasses.Student;
 import CoreClasses.Trainer;
 
-import static IndivPro_Zografos_Part_a.OptionsMenu.listOfAssignments;
-import static IndivPro_Zografos_Part_a.OptionsMenu.listOfCourses;
-import static IndivPro_Zografos_Part_a.OptionsMenu.listOfSchoolCourses;
-import static IndivPro_Zografos_Part_a.OptionsMenu.listOfStudentMoreThanOneCourses;
-import static IndivPro_Zografos_Part_a.OptionsMenu.listOfStudents;
-import static IndivPro_Zografos_Part_a.OptionsMenu.listOfTrainers;
+import static CoreMethods.OptionsMenu.listOfAssignments;
+import static CoreMethods.OptionsMenu.listOfCourses;
+import static CoreMethods.OptionsMenu.listOfSchoolCourses;
+import static CoreMethods.OptionsMenu.listOfStudentMoreThanOneCourses;
+import static CoreMethods.OptionsMenu.listOfStudents;
+import static CoreMethods.OptionsMenu.listOfTrainers;
 import AssistingClasses.StudentAssignment;
 import java.time.LocalDate;
 
