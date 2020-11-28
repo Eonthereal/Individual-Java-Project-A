@@ -14,7 +14,7 @@ import static IndivPro_Zografos_Part_a.OptionsMenu.listOfStudents;
 import static IndivPro_Zografos_Part_a.OptionsMenu.listOfTrainers;
 import CoreClasses.Assignment;
 import CoreClasses.Course;
-import CoreClasses.SchoolCourse;
+import AssistingClasses.SchoolCourse;
 import CoreClasses.Student;
 import CoreClasses.Trainer;
 import java.time.LocalDate;

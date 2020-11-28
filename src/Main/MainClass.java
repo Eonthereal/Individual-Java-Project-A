@@ -3,7 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package IndivPro_Zografos_Part_a;
+package Main;
+
+import IndivPro_Zografos_Part_a.OptionsMenu;
 
 
 

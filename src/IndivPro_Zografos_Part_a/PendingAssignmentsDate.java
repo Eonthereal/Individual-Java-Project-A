@@ -9,7 +9,7 @@ import static IndivPro_Zografos_Part_a.ManualDataMethods.date;
 import static IndivPro_Zografos_Part_a.OptionsMenu.listOfStudents;
 import static IndivPro_Zografos_Part_a.SupportMethods.valDate;
 import CoreClasses.Student;
-import CoreClasses.StudentAssignment;
+import AssistingClasses.StudentAssignment;
 import java.time.LocalDate;
 import java.time.Period;
 import java.util.Scanner;

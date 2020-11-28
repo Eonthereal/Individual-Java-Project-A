@@ -5,7 +5,7 @@
  */
 package IndivPro_Zografos_Part_a;
 
-import CoreClasses.SchoolCourse;
+import AssistingClasses.SchoolCourse;
 import CoreClasses.Assignment;
 import CoreClasses.Course;
 import CoreClasses.Student;
@@ -17,7 +17,7 @@ import static IndivPro_Zografos_Part_a.OptionsMenu.listOfSchoolCourses;
 import static IndivPro_Zografos_Part_a.OptionsMenu.listOfStudentMoreThanOneCourses;
 import static IndivPro_Zografos_Part_a.OptionsMenu.listOfStudents;
 import static IndivPro_Zografos_Part_a.OptionsMenu.listOfTrainers;
-import CoreClasses.StudentAssignment;
+import AssistingClasses.StudentAssignment;
 import java.time.LocalDate;
 
 /**

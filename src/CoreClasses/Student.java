@@ -5,6 +5,7 @@
  */
 package CoreClasses;
 
+import AssistingClasses.StudentAssignment;
 import java.time.LocalDate;
 import java.util.ArrayList;
 

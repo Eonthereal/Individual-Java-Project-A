@@ -3,11 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package CoreClasses;
+package AssistingClasses;
 
 import CoreClasses.Assignment;
+import CoreClasses.Assignment;
+import CoreClasses.Course;
 import CoreClasses.Course;
 import CoreClasses.Student;
+import CoreClasses.Student;
+import CoreClasses.Trainer;
 import CoreClasses.Trainer;
 import java.util.ArrayList;
 

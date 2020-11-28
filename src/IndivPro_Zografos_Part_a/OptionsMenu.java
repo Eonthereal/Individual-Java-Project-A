@@ -9,7 +9,7 @@ import static IndivPro_Zografos_Part_a.SupportMethods.printListOfAssignments;
 import static IndivPro_Zografos_Part_a.SupportMethods.printListOfAssignmentsPerCourse;
 import static IndivPro_Zografos_Part_a.SupportMethods.printListOfAssignmentsPerStudentPerCourse;
 import static IndivPro_Zografos_Part_a.SupportMethods.printListOfCourses;
-import CoreClasses.SchoolCourse;
+import AssistingClasses.SchoolCourse;
 import CoreClasses.Assignment;
 import CoreClasses.Course;
 import CoreClasses.Student;
